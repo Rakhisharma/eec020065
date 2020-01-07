@@ -1,0 +1,28 @@
+{
+  "name": "@commercetools/fe-interview-coding-task-api",
+  "version": "1.0.0",
+  "description": "The api for the coding task",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node index.js",
+    "start:watch": "cross-env NODE_ENV=development DEBUG=* nodemon index.js",
+    "dev:inspect": "cross-env NODE_ENV=development DEBUG=* node --inspect index.js"
+  },
+  "author": "commercetools",
+  "license": "Proprietary",
+  "private": true,
+  "engines": {
+    "node": ">=8",
+    "npm": ">=3"
+  },
+  "dependencies": {
+    "boom": "^7.3.0",
+    "cross-env": "^5.2.0",
+    "dotenv": "^8.0.0",
+    "hapi": "^18.1.0",
+    "hapi-cors": "^1.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

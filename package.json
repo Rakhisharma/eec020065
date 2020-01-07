@@ -1,0 +1,22 @@
+{
+  "name": "@commercetools/fe-interview-coding-task",
+  "version": "1.0.0",
+  "description": "A little coding task",
+  "scripts": {
+    "format": "prettier --write 'packages/**/*.js'",
+    "start:api": "yarn --cwd packages/api start"
+  },
+  "author": "commercetools",
+  "license": "Proprietary",
+  "private": true,
+  "engines": {
+    "node": ">=8",
+    "npm": ">=3"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

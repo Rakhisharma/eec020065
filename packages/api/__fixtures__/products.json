@@ -1,0 +1,940 @@
+[
+  {
+    "id": "sTOW43C0LIf5jcRYvB4g",
+    "name": "Multon Sneakers",
+    "createdAt": "2012-09-11T14:00:00.000Z",
+    "productType": "Footwear",
+    "state": "Reviewed",
+    "averageRating": 3.5,
+    "current": {
+      "price": 12.3,
+      "categories": [
+        {
+          "name": "Sneakers",
+          "ancestors": [
+            { "name": "Summer", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 14.9,
+      "categories": [
+        {
+          "name": "Snoekers",
+          "ancestors": [
+            { "name": "Summer", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "PR105xDM8TslOYHzLt9z",
+    "name": "Flopflips",
+    "createdAt": "2012-12-11T14:00:00.000Z",
+    "productType": "Footwear",
+    "state": "Out of Stock",
+    "averageRating": 3.5,
+    "current": {
+      "price": 12.3,
+      "categories": [
+        {
+          "name": "Sandals",
+          "ancestors": [{ "name": "Summer", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 32,
+      "categories": [
+        {
+          "name": "Sandals",
+          "ancestors": [{ "name": "Winter", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    }
+  },
+  {
+    "id": "Ww40s7Zc2ATWIfv",
+    "name": "Air Max",
+    "createdAt": "2012-08-10T14:00:00.000Z",
+    "productType": "Sportswear",
+    "state": "Needs Review",
+    "averageRating": 5,
+    "current": {
+      "price": 99.9,
+      "categories": [
+        {
+          "name": "Running",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 100.99,
+      "categories": [
+        {
+          "name": "Walking",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    }
+  },
+  {
+    "id": "bpsk32MCa85hEuC",
+    "name": "Jordan IX",
+    "createdAt": "2012-12-11T14:00:00.000Z",
+    "productType": "Sportswear",
+    "state": "Available",
+    "averageRating": 3,
+    "current": {
+      "price": 129.0,
+      "categories": [
+        {
+          "name": "Basketball",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 111.0,
+      "categories": [
+        {
+          "name": "Bball",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ar75hFSyAiBDMgP",
+    "name": "Rodman 9",
+    "createdAt": "2011-07-11T14:00:00.000Z",
+    "productType": "Sportswear",
+    "state": "Available",
+    "averageRating": 3,
+    "current": {
+      "price": 69.0,
+      "categories": [
+        {
+          "name": "Basketball",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 23,
+      "categories": [
+        {
+          "name": "Basketball"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jLbtIe9cnTBC3sf",
+    "name": "Kyre 13",
+    "createdAt": "2011-07-06T14:00:00.000Z",
+    "productType": "Sportswear",
+    "state": "Out of Stock",
+    "averageRating": 5,
+    "current": {
+      "price": 100.0,
+      "categories": [
+        {
+          "name": "Basketball",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 29.0,
+      "categories": [
+        {
+          "name": "Basketball",
+          "ancestors": [
+            { "name": "Sport", "ancestors": [{ "name": "Unisex" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "jLb32ddsTBC3sf",
+    "name": "Soloman",
+    "createdAt": "2011-07-03T14:00:00.000Z",
+    "productType": "Sports",
+    "state": "Available",
+    "averageRating": 3,
+    "current": {
+      "price": 124.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 29.0,
+      "categories": [
+        {
+          "name": "Mountainclimbin",
+          "ancestors": [{ "name": "Sport", "ancestors": [] }]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7h3ibKibgtfntCR",
+    "name": "The South Face",
+    "createdAt": "2011-02-03T14:00:00.000Z",
+    "productType": "Sports",
+    "state": "Available",
+    "averageRating": 4,
+    "current": {
+      "price": 200.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 129.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7gcsfTAD4Poj8rN",
+    "name": "Adipuma Performance",
+    "createdAt": "2011-05-03T14:00:00.000Z",
+    "productType": "Sports",
+    "state": "Available",
+    "averageRating": 2,
+    "current": {
+      "price": 46.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [{ "name": "Sport", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 42.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [
+            { "name": "Couch surfing", "ancestors": [{ "name": "Male" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "36ecENy7S67E0tH",
+    "name": "Higha",
+    "createdAt": "2011-02-03T14:00:00.000Z",
+    "productType": "Sports",
+    "state": "Available",
+    "averageRating": 2,
+    "current": {
+      "price": 42.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [
+            { "name": "Sport", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 59.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [
+            { "name": "Sport", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "O9dDM6tp4LHWbdN",
+    "name": "Carolina",
+    "createdAt": "2011-08-09T14:00:00.000Z",
+    "productType": "Sports",
+    "state": "Available",
+    "averageRating": 2,
+    "current": {
+      "price": 72.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [
+            { "name": "Sport", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 72.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [{ "name": "Female" }]
+        }
+      ]
+    }
+  },
+  {
+    "id": "O0RCnMMpFdZKeCS",
+    "name": "Carolina",
+    "createdAt": "2011-08-09T14:00:00.000Z",
+    "productType": "Sports",
+    "state": "Available",
+    "averageRating": 4.5,
+    "current": {
+      "price": 123.0,
+      "categories": [
+        {
+          "name": "Hiking",
+          "ancestors": [
+            { "name": "Sport", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 99.0,
+      "categories": [
+        {
+          "name": "Mountain adventures",
+          "ancestors": [
+            { "name": "Sport", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7XhGmJTyrZC6b8l",
+    "name": "CMF",
+    "createdAt": "2011-02-12T14:00:00.000Z",
+    "productType": "Boots",
+    "state": "Available",
+    "averageRating": 4.5,
+    "current": {
+      "price": 98.99,
+      "categories": [
+        {
+          "name": "Boots",
+          "ancestors": [
+            { "name": "Winter", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 99.99,
+      "categories": [
+        {
+          "name": "Boots",
+          "ancestors": [
+            { "name": "Summer", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "OEuBFwH3cx6lgn8",
+    "name": "Dachwinkel",
+    "createdAt": "2011-02-12T14:00:00.000Z",
+    "productType": "Boots",
+    "state": "Out of Stock",
+    "averageRating": 2.5,
+    "current": {
+      "price": 78.99,
+      "categories": [
+        {
+          "name": "Boots",
+          "ancestors": [{ "name": "Winter", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    },
+    "staged": {
+      "price": 78.99,
+      "categories": [
+        {
+          "name": "Boots",
+          "ancestors": [{ "name": "Winter", "ancestors": [{ "name": "Male" }] }]
+        }
+      ]
+    }
+  },
+  {
+    "id": "TocX8IeYB8JrhcH",
+    "name": "Fjällbaken",
+    "createdAt": "2011-04-08T12:00:00.000Z",
+    "productType": "Backpack",
+    "state": "Available",
+    "averageRating": 5,
+    "current": {
+      "price": 78.99,
+      "categories": [
+        {
+          "name": "Backpacks",
+          "ancestors": [
+            { "name": "Accessoires", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 59.99,
+      "categories": [
+        {
+          "name": "Bags",
+          "ancestors": [
+            { "name": "Accessoires", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "i07LzAMt7CbCl2o",
+    "name": "Pumsta",
+    "createdAt": "2011-01-08T12:00:00.000Z",
+    "productType": "Backpack",
+    "state": "Available",
+    "averageRating": 2,
+    "current": {
+      "price": 120.99,
+      "categories": [
+        {
+          "name": "Backpacks",
+          "ancestors": [
+            { "name": "Accessoires", "ancestors": [{ "name": "Male" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 120.99,
+      "categories": [
+        {
+          "name": "Backpacks",
+          "ancestors": [
+            { "name": "Accessoires", "ancestors": [{ "name": "Male" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "TKN8MgVuOIoVOAX",
+    "name": "Ospraz",
+    "createdAt": "2011-09-08T12:00:00.000Z",
+    "productType": "Backpack",
+    "state": "Unknown",
+    "averageRating": 3,
+    "current": {
+      "price": 110,
+      "categories": [
+        {
+          "name": "Backpacks",
+          "ancestors": [
+            { "name": "Accessoires", "ancestors": [{ "name": "Male" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 99.0,
+      "categories": [
+        {
+          "name": "Backpacks",
+          "ancestors": [
+            { "name": "Accessoires", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mhH9W2323YeLJLUD",
+    "name": "Jack Wolfspelz",
+    "createdAt": "2011-09-08T12:00:00.000Z",
+    "productType": "Backpack",
+    "state": "Available",
+    "averageRating": 3,
+    "current": {
+      "price": 200,
+      "categories": [
+        {
+          "name": "Backpacks",
+          "ancestors": [
+            { "name": "Accessoires", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 100,
+      "categories": [
+        {
+          "name": "Backpacks",
+          "ancestors": [
+            { "name": "Accessoires", "ancestors": [{ "name": "Female" }] }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mhH9W56xYeLJLUD",
+    "name": "Naik Performance",
+    "createdAt": "2011-02-08T12:00:00.000Z",
+    "productType": "Jacket",
+    "state": "Available",
+    "averageRating": 3,
+    "current": {
+      "price": 100,
+      "categories": [
+        {
+          "name": "Jackets",
+          "ancestors": [
+            {
+              "name": "Sportwear",
+              "ancestors": [
+                {
+                  "name": "Jacket",
+                  "ancestors": [
+                    {
+                      "name": "Male",
+                      "ancestors": [{ "name": "Merchandise" }]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 200,
+      "categories": [
+        {
+          "name": "Trenchcoats",
+          "ancestors": [
+            {
+              "name": "Sportwear",
+              "ancestors": [
+                {
+                  "name": "Jacket",
+                  "ancestors": [
+                    {
+                      "name": "Male",
+                      "ancestors": [{ "name": "Merchandise" }]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "YmDwyRKvP9gis3Q",
+    "name": "Adidus Fanboy",
+    "createdAt": "2018-02-08T12:00:00.000Z",
+    "productType": "Jacket",
+    "state": "Available",
+    "averageRating": 3,
+    "current": {
+      "price": 29,
+      "categories": [
+        {
+          "name": "Jackets",
+          "ancestors": [
+            {
+              "name": "Sportwear",
+              "ancestors": [
+                {
+                  "name": "Jacket",
+                  "ancestors": [
+                    {
+                      "name": "Male",
+                      "ancestors": [{ "name": "Merchandise" }]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 39,
+      "categories": [
+        {
+          "name": "Jackets",
+          "ancestors": [
+            {
+              "name": "Sportwear",
+              "ancestors": [
+                {
+                  "name": "Jacket",
+                  "ancestors": [
+                    {
+                      "name": "Male",
+                      "ancestors": [{ "name": "Merchandise" }]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "lZ2NhjLP4lghB7K",
+    "name": "Redbul",
+    "createdAt": "2017-02-08T12:00:00.000Z",
+    "productType": "Merchandise",
+    "state": "Available",
+    "averageRating": 3,
+    "current": {
+      "price": 99,
+      "categories": [
+        {
+          "name": "Jackets",
+          "ancestors": [
+            {
+              "name": "Sportwear",
+              "ancestors": [{ "name": "Jacket" }, { "name": "Merchandise" }]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 59,
+      "categories": [
+        {
+          "name": "Jackets",
+          "ancestors": [
+            {
+              "name": "Sportwear",
+              "ancestors": [{ "name": "Jacket" }]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mhH9W5sda2LJLUD",
+    "name": "Only & Brothers",
+    "createdAt": "2012-02-08T12:00:00.000Z",
+    "productType": "Shirt",
+    "state": "Out of Stock",
+    "averageRating": 5,
+    "current": {
+      "price": 19,
+      "categories": [
+        {
+          "name": "T-Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 19
+    }
+  },
+  {
+    "id": "RQhZuXKXpZKlM78",
+    "name": "Only & Brothers",
+    "createdAt": "2018-09-08T12:00:00.000Z",
+    "productType": "Shirt",
+    "state": "Available",
+    "averageRating": 5,
+    "current": {
+      "price": 25,
+      "categories": [
+        {
+          "name": "T-Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 20,
+      "categories": [
+        {
+          "name": "Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "kJztupPYS7hl11V",
+    "name": "Erwin",
+    "createdAt": "2018-09-08T12:00:00.000Z",
+    "productType": "Shirt",
+    "state": "Available",
+    "averageRating": 4,
+    "current": {
+      "price": 22,
+      "categories": [
+        {
+          "name": "T-Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 22,
+      "categories": [
+        {
+          "name": "T-Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "AKLcH30DRNTdVvF",
+    "name": "Obay",
+    "createdAt": "2018-09-08T12:00:00.000Z",
+    "productType": "Shirt",
+    "state": "Available",
+    "averageRating": 2,
+    "current": {
+      "price": 29,
+      "categories": [
+        {
+          "name": "T-Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": [{ "name": "Female" }]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 29,
+      "categories": [
+        {
+          "name": "T-Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": [{ "name": "Female" }]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "CmDdU88HKTuJDdy",
+    "name": "Obay",
+    "createdAt": "2018-12-08T12:00:00.000Z",
+    "productType": "Shirt",
+    "state": "Out of Stock",
+    "averageRating": 2,
+    "current": {
+      "price": 12.99,
+      "categories": [
+        {
+          "name": "T-Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": [{ "name": "Female" }]
+            }
+          ]
+        },
+        {
+          "name": "Shirts",
+          "ancestors": [
+            {
+              "name": "Shirts"
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 13.0,
+      "categories": [
+        {
+          "name": "T-Shirt",
+          "ancestors": [
+            {
+              "name": "Shirts",
+              "ancestors": [{ "name": "Female" }]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "sNhJFRTpsNHBpYe",
+    "name": "Tommay Halfiga",
+    "createdAt": "2018-12-08T12:00:00.000Z",
+    "productType": "Hoodie",
+    "state": "Out of Stock",
+    "averageRating": 2,
+    "current": {
+      "price": 39.99,
+      "categories": [
+        {
+          "name": "Hoodie",
+          "ancestors": [
+            {
+              "name": "Sweatshirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 39.99,
+      "categories": [
+        {
+          "name": "Hoodie",
+          "ancestors": [
+            {
+              "name": "Sweatshirts",
+              "ancestors": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "TlhMS7gTUM9bJhH",
+    "name": "Tommay Halfiga",
+    "createdAt": "2012-12-08T12:00:00.000Z",
+    "productType": "Hoodie",
+    "state": "Available",
+    "averageRating": 2,
+    "current": {
+      "price": 49.99,
+      "categories": [
+        {
+          "name": "Hoodie",
+          "ancestors": [
+            {
+              "name": "Sweatshirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 49.99,
+      "categories": [
+        {
+          "name": "Hoodie",
+          "ancestors": [
+            {
+              "name": "Sweatshirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "DpnhGZsBmpFfSEt",
+    "name": "Tommay Halfiga",
+    "createdAt": "2017-12-08T12:00:00.000Z",
+    "productType": "Hoodie",
+    "state": "Available",
+    "averageRating": 5,
+    "current": {
+      "price": 9.99,
+      "categories": [
+        {
+          "name": "Hoodie",
+          "ancestors": [
+            {
+              "name": "Sweatshirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    },
+    "staged": {
+      "price": 19.99,
+      "categories": [
+        {
+          "name": "Hoodie",
+          "ancestors": [
+            {
+              "name": "Sweatshirts",
+              "ancestors": [{ "name": "Male" }]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
